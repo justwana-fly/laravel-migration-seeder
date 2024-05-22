@@ -1,1 +1,9 @@
-<div>Header <i class="fa-solid fa-home"></i></div>
+<header>
+    <nav>
+        <ul>
+            <li><a href="{{ url('/') }}">Home</a></li>
+            <!-- Altri link di navigazione -->
+        </ul>
+    </nav>
+</header>
+
